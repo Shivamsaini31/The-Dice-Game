@@ -1,0 +1,37 @@
+*{
+    margin:0px;
+}
+body{
+    background-color: #393E46;
+}
+h1{
+    margin-top:4rem;
+    font-size:5rem;
+    display:flex;
+    justify-content:center;
+    color:#4ECCA3;
+    Font-family:'Lobster',cursive;
+    text-shadow: 5px 0 #393E46;
+}
+.dice{
+    color:#4ECCA3;
+    font-family:'Indie Flower',cursive;
+    font-size:2rem;
+    margin:3rem;
+}
+.dice1{
+    text-align: right;
+}
+.dice-platform{
+    display:flex;
+    justify-content:center;
+}
+#footer{
+    display:flex;
+    justify-content:center;
+    color:#4ECCA3;
+    font-family:"Indie Flower",cursive;
+    img{
+        height:1rem;
+    }
+}
